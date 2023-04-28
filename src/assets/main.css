@@ -21,18 +21,23 @@
 
 @font-face {
   font-family: 'Outfit';
-  src: url('font/Outfit-Regular.woff') format('woff');
+  src: url('font/Outfit-Light.woff') format('woff');
   font-weight: 400;
 }
 @font-face {
   font-family: 'Outfit';
-  src: url('font/Outfit-Medium.woff') format('woff');
+  src: url('font/Outfit-Regular.woff') format('woff');
   font-weight: 500;
 }
 @font-face {
   font-family: 'Outfit';
-  src: url('font/Outfit-SemiBold.woff') format('woff');
+  src: url('font/Outfit-Medium.woff') format('woff');
   font-weight: 600;
+}
+@font-face {
+  font-family: 'Outfit';
+  src: url('font/Outfit-SemiBold.woff') format('woff');
+  font-weight: 700;
 }
 
 :root{
